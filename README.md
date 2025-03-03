@@ -7,10 +7,10 @@ The Web API provides a set of endpoints for controlling a robot, and the xUnit t
 
 ## Prerequisites
 Make sure you have the following installed:
-Visual Studio 
-.NET SDK (Version 8.0 or higher)
-xUnit for testing (can be installed through the solution)
-Postman or any other API client (optional for testing endpoints manually)
+- Visual Studio or Visual studio code
+- .NET SDK (Version 8.0 or higher)
+- xUnit for testing (can be installed through the solution)
+- Postman or any other API client (optional for testing endpoints manually)
 
 ## How to Run
 
